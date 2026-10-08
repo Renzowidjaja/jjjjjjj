@@ -1,9 +1,9 @@
 # Git Collaboration Practice
 
 ## Pair Information
-- Student A: 
+- Student A: Renzo
 - GitHub username: 
-- Student B: 
+- Student B: Abi
 - GitHub username: 
 
 ## Branch Work
